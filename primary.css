@@ -24,6 +24,11 @@ body
 	align-items: 				center;
 	height:						50vh;
 	width:						50vw;
+	
+	color:						white;
+	text-shadow: 				2px 2px black;
+	font-family:				impact;
+	font-size: 					8rem;
 }
 
 #BOX01
