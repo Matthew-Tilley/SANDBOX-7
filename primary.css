@@ -19,7 +19,7 @@ body
 
 .BOX
 {
-	
+		
 	
 	display:					flex;
 	justify-content: 			center;
@@ -34,23 +34,29 @@ body
 
 #BOX01
 {
-	
+	grid-row:					1 / 3;
+	grid-column: 				1 / 3;
 	background-color: 			blue;
 }
 
 #BOX02
 {
-	
+	grid-row:					1 / 3;
+	grid-column:				3 / 5;
 	background-color: 			yellow;
 }
 
 #BOX03
 {
+	grid-row:					3 / 5;
+	grid-column:				1 / 3;
 	background-color: 			red;
 }
 
 #BOX04
 {
+	grid-row:					3 / 5;
+	grid-column:				3 / 5;
 	background-color:			green;
 }
 
