@@ -68,13 +68,26 @@ body
 	
 	
 	display:					flex;
-	justify-content: 			center;
+	flex-direction:				column;
+	justify-content: 			space-around;
 	align-items: 				center;
 	
-	height:						50vh;
 	background-color:			gray;
-	border-radius:				50%;
+	
+	
 	z-index: 					1;
+}
+
+#INNER01
+{
+	height:						50%;
+	width:						85%;
+	border:						2px solid black;
+	border-radius:				50%;
+	background-image:			url("20170801_113946D.png");
+	background-size: 			cover;
+	background-repeat:			no-repeat;
+	z-index:					3;
 }
 
 
