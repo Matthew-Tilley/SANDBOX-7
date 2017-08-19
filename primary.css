@@ -32,6 +32,7 @@ body
 
 #BOX01
 {
+	grid-column:				span 2;
 	background-color: 			blue;
 }
 
