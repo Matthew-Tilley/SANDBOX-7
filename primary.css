@@ -38,6 +38,7 @@ body
 
 #BOX02
 {
+	
 	background-color: 			yellow;
 }
 
@@ -53,8 +54,7 @@ body
 
 #BOX05
 {
-	grid-row:					1;
-	grid-column: 				2;
+
 	
 	display:					flex;
 	justify-content: 			center;
