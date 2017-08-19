@@ -17,5 +17,16 @@ body
 	grid-template-columns: 		repeat(2, 1fr);
 }
 
+.BOX
+{
+	height:						50vh;
+	width:						50vw;
+}
+
+#BOX01
+{
+	background-color: 			blue;
+}
+
 
 
