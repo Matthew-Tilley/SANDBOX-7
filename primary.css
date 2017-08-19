@@ -51,5 +51,13 @@ body
 	background-color:			green;
 }
 
+#BOX05
+{
+	height:						30vh;
+	background-color:			gray;
+	border-radius:				50%;
+	z-index: 					1;
+}
+
 
 
