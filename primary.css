@@ -53,6 +53,12 @@ body
 
 #BOX05
 {
+	grid-row:					1;
+	
+	display:					flex;
+	justify-content: 			center;
+	align-items: 				center;
+	
 	height:						30vh;
 	background-color:			gray;
 	border-radius:				50%;
